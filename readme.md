@@ -15,3 +15,11 @@
 
 ## 2. Quản trị admin
 
+### 2.1 Thông tin chung 
+![](images/admin-main.PNG)
+
+### 2.2 Giám sát
+![](images/admin-monitor.PNG)
+
+### 2.3 Quản trị User
+![](images/admin-user.PNG)
